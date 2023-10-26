@@ -1,4 +1,16 @@
-.corpo-conteudo
-praiatropical{
+.cabecalho{ 
+ background-color: aquamarine;
+ color: aliceblue;
+}
+.principal{
+     background-color: cyan;
+     color: chartreuse;
+}
+.rodape{
+    background-color: blue;
+    color: cornflowerblue;
+    text-align: center;
+}
+#pordosol{
     width: 600px;
 }
